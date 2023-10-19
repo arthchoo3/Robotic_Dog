@@ -23,7 +23,7 @@ The PCBs are also decorated with symbols of the vibrant programming community at
 ![Dog knee PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/9696339b-598c-4e50-865b-fc28dd12991e)
 
 ## Code and Calculations
-![Dog Math](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/8a7c7b1f-09da-487d-bee8-11f3deac367a)
+![Dog Math](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/6a84b32f-c96a-46dd-94df-ef824c90fe82)
 
 
 ## Setbacks and Limitations
