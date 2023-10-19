@@ -10,3 +10,7 @@ In my first attempt at building a robotic dog, I attempted to mount the structur
 
 The servo motor (blue) rotates the cylinder (green) which rotates the leg strut (gray) and the hub (yellow). Any bending forces that the leg strut would have previously placed on the servo horn are now supported by the rotary guide (red), making the servo only responsible for rotating the system.
 ![Dog 2 Joint](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/d6daaeb5-4d5b-46df-a669-bc10ba195efe)
+
+## PCBs
+For the microcontroller, I chose to use the ATMega328 from an Arduino Uno because I am very familiar with C++ and the Arduino IDE. The central PCB has four sets of three-prong plugs, one plug for each leg and one prong for each servo. It also has four sets of positive and negative outputs to power each leg. Each leg also has its own PCB into which the three servos plug to connect to the central PCB.
+The PCBs are also decorated with symbols of the vibrant programming community at my school.  
