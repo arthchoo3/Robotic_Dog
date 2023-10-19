@@ -10,9 +10,6 @@ This repository displays my robotic dog project, including the STL, Gerber, and 
 
 https://github.com/arthchoo3/Robotic_Dog/assets/140445967/36175da8-d79e-43d7-8e23-6a641d8918cc
 
-g Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/08c969cd-acbc-4623-bc0c-e1c24e558340)
-
-
 ## Joint Design
 In my first attempt at building a robotic dog, I attempted to mount the structural components of the legs directly to the servo horns. This design did not work because the servo horns were not designed to withstand forces perpendicular to their plane of rotation. So, for this dog, I went for a design approach in which the bending forces act not on the servo horn itself but on a rotary guide and hub system. This makes it so the servos must only resist the torsion forces for which they were designed.
 
