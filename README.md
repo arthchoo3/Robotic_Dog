@@ -14,6 +14,5 @@ The servo motor (blue) rotates the cylinder (green) which rotates the leg strut 
 ## PCBs
 For the microcontroller, I chose to use the ATMega328 from an Arduino Uno because I am very familiar with C++ and the Arduino IDE. The central PCB has four sets of three-prong plugs, one plug for each leg and one prong for each servo. It also has four sets of positive and negative outputs to power each leg. Each leg also has its own PCB into which the three servos plug to connect to the central PCB.
 The PCBs are also decorated with symbols of the vibrant programming community at my school.  
-![Dog 2 PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/96275124-42ea-4943-ae8f-585810f2ea6d)
 ![Dog Main PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/65dabec6-20ab-4b3c-a956-38c645a6b7d3)
 ![Dog knee PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/9696339b-598c-4e50-865b-fc28dd12991e)
