@@ -2,9 +2,11 @@
 This repository displays my robotic dog project, including the STL, Gerber, and Ino files. It also offers a glimpse into my thoughts and ideas throughout the design process, including previous iterations of various design aspects.
 
 ## General Overview
-Each leg of the dog is 30cm long and contains three MG996R servo motors: two for shoulder actuation on two axes and one for knee actuation. The dog contains five custom PCBs. Each leg has one PCB that distributes power and signal to the three servos. The central PCB is controlled by an ATMega328 microcontroller and distributes power and signal to each of the four leg PCBs. The code is written in Arduino C++ and calculates servo angles based on X (horizontal distance from shoulder) and Z (vertical distance from shoulder) coordinates of the foot. This system allows for smooth linear motion and easier programming.
+ The dog is made of 143 3D-printed pieces, 5 custom PCBs, and 12 servo motors. Each leg of the dog is 30cm long and contains three MG996R servo motors: two for shoulder actuation on two axes and one for knee actuation. Each leg has one PCB that distributes power and signal to the three servos. The central PCB is controlled by an ATMega328 microcontroller and distributes power and signal to each of the four leg PCBs. The code is written in Arduino C++ and calculates servo angles based on X (horizontal distance from shoulder) and Z (vertical distance from shoulder) coordinates of the foot. This system allows for smooth linear motion and easier programming.
 ![Dog 2 Leg](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/3cca1a64-80d2-4610-9812-5a4194ab8efb)
 ![Dog Standing Up](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/9a2b34aa-a8fb-4a82-b717-2ca8a31ef286)
+![Dog Standing Up 2](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/ddeacf45-d78a-49c4-9054-25f4c0445189)
+![Dog Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/08c969cd-acbc-4623-bc0c-e1c24e558340)
 
 
 ## Joint Design
