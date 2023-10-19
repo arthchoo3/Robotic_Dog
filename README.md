@@ -6,7 +6,11 @@ This repository displays my robotic dog project, including the STL, Gerber, and 
 ![Dog 2 Leg](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/3cca1a64-80d2-4610-9812-5a4194ab8efb)
 ![Dog Standing Up](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/9a2b34aa-a8fb-4a82-b717-2ca8a31ef286)
 ![Dog Standing Up 2](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/ddeacf45-d78a-49c4-9054-25f4c0445189)
-![Dog Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/08c969cd-acbc-4623-bc0c-e1c24e558340)
+![Do
+
+https://github.com/arthchoo3/Robotic_Dog/assets/140445967/524eea1b-a0e0-49c5-8144-9aaa5eb0174e
+
+g Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/08c969cd-acbc-4623-bc0c-e1c24e558340)
 
 
 ## Joint Design
