@@ -6,8 +6,6 @@ This repository displays my robotic dog project, including the STL, Gerber, and 
 ![Dog 2 Leg](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/3cca1a64-80d2-4610-9812-5a4194ab8efb)
 ![Dog Standing Up](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/9a2b34aa-a8fb-4a82-b717-2ca8a31ef286)
 ![Dog Standing Up 2](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/ddeacf45-d78a-49c4-9054-25f4c0445189)
-![Do
-
 https://github.com/arthchoo3/Robotic_Dog/assets/140445967/524eea1b-a0e0-49c5-8144-9aaa5eb0174e
 
 g Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/08c969cd-acbc-4623-bc0c-e1c24e558340)
@@ -24,3 +22,10 @@ For the microcontroller, I chose to use the ATMega328 from an Arduino Uno becaus
 The PCBs are also decorated with symbols of the vibrant programming community at my school.  
 ![Dog Main PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/65dabec6-20ab-4b3c-a956-38c645a6b7d3)
 ![Dog knee PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/9696339b-598c-4e50-865b-fc28dd12991e)
+
+## Setbacks and Limitations
+The MG996R Servos that the dog currently uses do not have enough torque to properly carry the dog's weight. This is why the dog leans forward as it walks because if the weight isn’t shifted more to the front legs, the rear motors will give out under the dog's weight. This is also the reason the dog must be plugged into a power supply because the servos cannot support the weight of a battery pack. I am currently saving money from my weekend job to buy higher torque servos so this won’t be an issue in the future. 
+
+## Future Plans
+Right now, the very basic PCB that controls the dog only allows for pre-programmed motion. I am currently learning to work with CH340C USB to Serial converters so I can add USB ports to make the dog remote-controlled. I also plan to buy higher torque servos once I have saved enough money so the dog can move more fluidly.
+
