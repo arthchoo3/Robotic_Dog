@@ -22,6 +22,9 @@ The PCBs are also decorated with symbols of the vibrant programming community at
 ![Dog Main PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/65dabec6-20ab-4b3c-a956-38c645a6b7d3)
 ![Dog knee PCB](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/9696339b-598c-4e50-865b-fc28dd12991e)
 
+## Code and Calculations
+
+
 ## Setbacks and Limitations
 The MG996R Servos that the dog currently uses do not have enough torque to properly carry the dog's weight. This is why the dog leans forward as it walks because if the weight isn’t shifted more to the front legs, the rear motors will give out under the dog's weight. This is also the reason the dog must be plugged into a power supply because the servos cannot support the weight of a battery pack. I am currently saving money from my weekend job to buy higher torque servos so this won’t be an issue in the future. 
 
