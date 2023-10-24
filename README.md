@@ -5,7 +5,6 @@ This repository displays my robotic dog project, including the STL, Gerber, and 
  The dog is made of 143 3D-printed pieces, 5 custom PCBs, and 12 servo motors. Each leg of the dog is 30cm long and contains three MG996R servo motors: two for shoulder actuation on two axes and one for knee actuation. Each leg has one PCB that distributes power and signal to the three servos. The central PCB is controlled by an ATMega328 microcontroller and distributes power and signal to each of the four leg PCBs. The code is written in Arduino C++.
 ![IMG_9329](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/273ebf46-8734-4387-b771-131e685d39fe)
 ![IMG_9317](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/ab07ba57-b3a0-4a9b-984a-dc1d20e91b98)
-![Dog 2 L![Dog Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/7a469416-ead5-4601-8f50-fbb57d2119d1)
 ![Dog Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/d76e9858-e44e-4b20-81f2-83991191965a)
 
 
