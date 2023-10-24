@@ -6,6 +6,7 @@ This repository displays my robotic dog project, including the STL, Gerber, and 
 ![IMG_9329](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/273ebf46-8734-4387-b771-131e685d39fe)
 ![IMG_9317](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/ab07ba57-b3a0-4a9b-984a-dc1d20e91b98)
 ![Dog 2 L![Dog Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/7a469416-ead5-4601-8f50-fbb57d2119d1)
+![Dog Parts](https://github.com/arthchoo3/Robotic_Dog/assets/140445967/d76e9858-e44e-4b20-81f2-83991191965a)
 
 
 https://github.com/arthchoo3/Robotic_Dog/assets/140445967/36175da8-d79e-43d7-8e23-6a641d8918cc
