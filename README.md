@@ -33,3 +33,4 @@ The MG996R Servos that the dog currently uses do not have enough torque to prope
 ## Future Plans
 Right now, the very basic PCB that controls the dog only allows for pre-programmed motion. I am currently learning to work with CH340C USB to Serial converters so I can add USB ports to make the dog remote-controlled. I also plan to buy higher torque servos once I have saved enough money so the dog can move more fluidly.
 
+
